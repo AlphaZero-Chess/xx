@@ -187,6 +187,7 @@ jiter==0.11.0
 fastuuid==0.13.5
 jq==1.10.0
 s5cmd==0.2.0
+sympy==1.12
 
 # Note: torch is listed without version to allow flexible installation
 # For CPU only: pip install torch
